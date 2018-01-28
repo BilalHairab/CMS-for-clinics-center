@@ -1,1 +1,1 @@
-# CMS-for-clinics-center
+# CMS for clinics center
