@@ -1,0 +1,51 @@
+﻿.mainButtons {
+    border-radius: 5px;
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid gray;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.mainButtons:hover {
+        background-color: gray;
+        color: white;
+        box-shadow: 1px 1px 1px grey;
+    }
+.mainTextBoxes {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.mainTextBoxes:hover, .mainTextBoxes:focus {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19);
+}
+header, footer {
+    background-color: #41ace1;
+    color: white;
+    text-align: center;
+    height: 15%;
+    margin: 0;
+    padding: 1px; /* tweaked from 0 to 1px */
+}
+body {
+    margin: 0;
+    padding: 0;
+    /*background-color: #D9FFFA;*/
+    background: url("assets/3.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+header {
+    top: 0;
+}
