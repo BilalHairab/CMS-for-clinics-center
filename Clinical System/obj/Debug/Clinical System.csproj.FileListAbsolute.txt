@@ -1,0 +1,34 @@
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\csc.exe
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\csc.exe.config
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\csc.rsp
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\csi.exe
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\csi.rsp
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\System.AppContext.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\System.IO.FileSystem.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\vbc.exe
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\vbc.exe.config
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\vbc.rsp
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\VBCSCompiler.exe
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\Clinical System.dll.config
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\Clinical System.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\Clinical System.pdb
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\obj\Debug\Clinical System.csprojResolveAssemblyReference.cache
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\obj\Debug\Clinical System.dll
+c:\users\bilal-laptop\documents\visual studio 2017\Projects\Clinical System\Clinical System\obj\Debug\Clinical System.pdb
